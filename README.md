@@ -34,7 +34,7 @@ class About extends Me
             HTML::class,
             CSS::class,
             SQL::class,
-            C++::class,
+            C::class,
             Java::class,
             Python::class,
         ];
