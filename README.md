@@ -1,3 +1,4 @@
+<!--
 ```php
 <?php
 
@@ -50,3 +51,5 @@ echo "Hi there! Welcome to my profile 👋";
 
 ?>
 ```
+--->
+![Contributions](https://github.com/jtsimoes/jtsimoes/blob/output/github-contribution-grid-snake.svg)
