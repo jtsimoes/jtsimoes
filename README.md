@@ -51,5 +51,10 @@ echo "Hi there! Welcome to my profile 👋";
 
 ?>
 ```
---->
-![Contributions](https://github.com/jtsimoes/jtsimoes/blob/output/github-contribution-grid-snake.svg)
+-->
+
+<!-- ![Contributions](https://github.com/jtsimoes/jtsimoes/blob/output/github-contribution-grid-snake.svg) -->
+
+<p align="center">
+    <img width="426" height="320" src="gif.gif" alt="GIF">
+</p>
