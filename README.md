@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="wordart.png" style="width: 100%;" alt="Welcome to my profile message">
-    <br><br>
+    <img src="wordart.png" style="width: 90%;" alt="Welcome to my profile message">
+    <br><br><br>
     <img src="intro.png" style="width: 80%;" alt="Introduction message">
     <br><br><br><br>
     <img width="426" height="320" src="gif.gif" alt="Brent Rambo meme">
