@@ -6,7 +6,7 @@
     <img width="426" height="320" src="gif.gif" alt="Brent Rambo meme">
     <br><br><br><br>
     <p><samp>You are visitor number</samp></p>
-    <img src="https://profile-counter.glitch.me/jtsimoes/count.svg">
+    <img src="https://profile-counter.deno.dev/jtsimoes/count.svg">
     <br><br><br><br>
     <img src="notepad.gif" alt="Notepad badge">
     <br><br>
